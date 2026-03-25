@@ -18,8 +18,10 @@ This project analyzes a massive dataset of over --890,000 records--sourced from 
 File -pbix-(https://drive.google.com/file/d/1HJJvrW-fzuRRHc62VIcvMgeVqGi_N63F/view?usp=sharing)
 
  📊 Dashboard Preview
-![Page 1](./001031-25-03-2026-لقطة-الشاشة.png)
-![Page 2](./200655-25-03-2026-لقطة-الشاشة.png)
+![Page 1](<img width="1136" height="649" alt="Page 1" src="https://github.com/user-attachments/assets/987391cc-c7f4-4fe4-af74-1feb30a0f23b" />
+)
+![Page 2](<img width="1136" height="653" alt="Page 2" src="https://github.com/user-attachments/assets/4bb124f9-14ab-4608-be7b-c567dd802ad1" />
+)
 
 ---
 
