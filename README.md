@@ -14,6 +14,13 @@ This project analyzes a massive dataset of over --890,000 records--sourced from 
 --Top Performance:-2023-- emerged as the peak year with record-breaking revenue and order volume.
 -Efficiency: Optimized a 1M row dataset into a high-performance 2-page dashboard.
 
+
 File -pbix-(https://drive.google.com/file/d/1HJJvrW-fzuRRHc62VIcvMgeVqGi_N63F/view?usp=sharing)
+
+ 📊 Dashboard Preview
+![Page 1](./001031-25-03-2026-لقطة-الشاشة.png)
+![Page 2](./200655-25-03-2026-لقطة-الشاشة.png)
+
 ---
+
 *Developed by Abdelhadi Barkati*
